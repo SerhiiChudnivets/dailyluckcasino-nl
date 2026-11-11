@@ -37,53 +37,61 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+          "name": "Legacy of Dead",
+          "Name": "Legacy of Dead",
+          "logo_alt": "Legacy of Dead"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
+          "name": "King of The West",
+          "Name": "King of The West",
+          "logo_alt": "king of the west"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+          "name": "Dead or Alive",
+          "Name": "Dead or Alive",
+          "logo_alt": "Dead or Alive"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+          "name": "Book of Dead",
+          "Name": "Book of Dead",
+          "logo_alt": "Book of Dead"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+          "name": "Welkomstbonus tot 150% + 150 FS",
+          "Name": "Welkomstbonus tot 150% + 150 FS",
+          "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+          "name": "Wekelijkse Cashback tot 15%",
+          "Name": "Wekelijkse Cashback tot 15%",
+          "logo_alt": "Exclusive Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+          "name": "Daily Prize Draw – 10.000 FS",
+          "Name": "Daily Prize Draw – 10.000 FS",
+          "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+          "name": "Weekly Prize Draw – iPad Pro",
+          "Name": "Weekly Prize Draw – iPad Pro",
+          "logo_alt": "Sport Bonus"
         }
       ],
       "faq": [],
@@ -308,53 +316,61 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+      "name": "Legacy of Dead",
+      "Name": "Legacy of Dead",
+      "logo_alt": "Legacy of Dead"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/e402f307b6c761444895c32bb4db41d7.webp",
+      "name": "King of The West",
+      "Name": "King of The West",
+      "logo_alt": "king of the west"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+      "name": "Welkomstbonus tot 150% + 150 FS",
+      "Name": "Welkomstbonus tot 150% + 150 FS",
+      "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+      "name": "Wekelijkse Cashback tot 15%",
+      "Name": "Wekelijkse Cashback tot 15%",
+      "logo_alt": "Exclusive Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/b1b4cc21188d9a99d32a148853ec1fe3.svg",
+      "name": "Daily Prize Draw – 10.000 FS",
+      "Name": "Daily Prize Draw – 10.000 FS",
+      "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+      "name": "Weekly Prize Draw – iPad Pro",
+      "Name": "Weekly Prize Draw – iPad Pro",
+      "logo_alt": "Sport Bonus"
     }
   ],
   "Reviews": null,
@@ -384,8 +400,8 @@
       "question": "Is Daily Luck hetzelfde casino als DailyLuck?"
     }
   ],
-  "_generated_at": "2026-11-11T17:03:30.293Z",
+  "_generated_at": "2026-11-11T17:26:09.640Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-11T17:03:31.064Z",
-  "_deploy_trigger": "xme65a"
+  "_last_deploy": "2026-11-11T17:26:10.310Z",
+  "_deploy_trigger": "zxyv13"
 }
